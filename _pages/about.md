@@ -9,8 +9,8 @@ profile:
   image: cliff.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>73000 Verano Rd S</p>
-    <p>Irvine, CA 92617</p>
+    <p>Social Sciences Tower (SST) #643</p>
+    <p>Irvine, CA 92697</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
